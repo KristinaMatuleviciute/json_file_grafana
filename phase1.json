@@ -1,0 +1,262 @@
+[
+ {
+   "Site Name": "Burrishoole Catchment",
+   "Site Operator": "Marine Institute",
+   "Site Contact": "XXXX",
+   "Year established": 1999,
+   "Site Status": "Operational",
+   "Site": {
+      "Plot": false
+   },
+   "Catchment": {
+      "System": true
+   },
+   "County": "Mayo",
+   "Lat": 53.9021,
+   "Long": "-9.5723",
+   "Elevation (mAOD)": 12,
+   "Biome": "Coastal",
+   "Mean Temp (�C)": 10,
+   "Mean Rainfall (mm)": 1100,
+   "URL": "http://burrishoole.marine.ie/about.aspx",
+   "Air temperature": true,
+   "Windspeed and wind direction": true,
+   "Air humidity": true,
+   "Barometric pressure": true,
+   "Precipitation": true,
+   "Incoming shortwave radiation": true,
+   "Soil characterization": false,
+   "Soil moisture": false,
+   "Surface water temperature": true,
+   "Surface water discharge": true,
+   "Surface water pH": true,
+   "Surface water specific conductivity": true,
+   "Groundwater temperature": false,
+   "Groundwater elevation": false,
+   "Groundwater specific conductivity": false,
+   "Surface water nutrients and ions": true,
+   "Soil water chemistry": false,
+   "Atmospheric deposition": false,
+   "Surface water dissolved organic carbon (DOC)": true,
+   "Soil heat flux": false,
+   "Radiation budget": false,
+   "Leaf area index (LAI)": false,
+   "Concentration of CO2 and water vapor": false,
+   "Abundance and identity of birds": false,
+   "Abundance and identity of insects": true,
+   "Abundance of vascular plants": false,
+   "Tree height": {
+      "diameter": {
+         "litter fall": false
+      }
+   }
+},
+ {
+   "Site Name": "Clara Bog",
+   "Site Operator": "Trinity College Dublin",
+   "Site Contact": "XXXX",
+   "Year established": 2007,
+   "Site Status": "Operational",
+   "Site": {
+      "Plot": true
+   },
+   "Catchment": {
+      "System": false
+   },
+   "County": "Offaly",
+   "Lat": 53.341923,
+   "Long": "-7.617452",
+   "Elevation (mAOD)": 65,
+   "Biome": "Raised Bog",
+   "Mean Temp (�C)": 10.5,
+   "Mean Rainfall (mm)": 1000,
+   "URL": "https://www.npws.ie/nature-reserves/offaly/clara-bog-nature-reserve",
+   "Air temperature": true,
+   "Windspeed and wind direction": true,
+   "Air humidity": true,
+   "Barometric pressure": true,
+   "Precipitation": true,
+   "Incoming shortwave radiation": true,
+   "Soil characterization": true,
+   "Soil moisture": true,
+   "Surface water temperature": false,
+   "Surface water discharge": false,
+   "Surface water pH": false,
+   "Surface water specific conductivity": false,
+   "Groundwater temperature": false,
+   "Groundwater elevation": false,
+   "Groundwater specific conductivity": false,
+   "Surface water nutrients and ions": false,
+   "Soil water chemistry": false,
+   "Atmospheric deposition": false,
+   "Surface water dissolved organic carbon (DOC)": false,
+   "Soil heat flux": true,
+   "Radiation budget": true,
+   "Leaf area index (LAI)": true,
+   "Concentration of CO2 and water vapor": true,
+   "Abundance and identity of birds": false,
+   "Abundance and identity of insects": false,
+   "Abundance of vascular plants": true,
+   "Tree height": {
+      "diameter": {
+         "litter fall": true
+      }
+   }
+},
+ {
+   "Site Name": "All Saints Bog",
+   "Site Operator": "National Parks and Wildlife Service",
+   "Site Contact": "XXXX",
+   "Year established": 2021,
+   "Site Status": "Operational",
+   "Site": {
+      "Plot": true
+   },
+   "Catchment": {
+      "System": false
+   },
+   "County": "Offaly",
+   "Lat": 53.1511,
+   "Long": "-7.98252",
+   "Elevation (mAOD)": 45,
+   "Biome": "Raised Bog",
+   "Mean Temp (�C)": 10.2,
+   "Mean Rainfall (mm)": 1000,
+   "URL": "https://www.npws.ie/protected-sites/sac/000566",
+   "Air temperature": true,
+   "Windspeed and wind direction": true,
+   "Air humidity": true,
+   "Barometric pressure": true,
+   "Precipitation": true,
+   "Incoming shortwave radiation": true,
+   "Soil characterization": true,
+   "Soil moisture": true,
+   "Surface water temperature": true,
+   "Surface water discharge": true,
+   "Surface water pH": true,
+   "Surface water specific conductivity": true,
+   "Groundwater temperature": false,
+   "Groundwater elevation": false,
+   "Groundwater specific conductivity": false,
+   "Surface water nutrients and ions": false,
+   "Soil water chemistry": false,
+   "Atmospheric deposition": false,
+   "Surface water dissolved organic carbon (DOC)": false,
+   "Soil heat flux": true,
+   "Radiation budget": true,
+   "Leaf area index (LAI)": true,
+   "Concentration of CO2 and water vapor": true,
+   "Abundance and identity of birds": false,
+   "Abundance and identity of insects": false,
+   "Abundance of vascular plants": true,
+   "Tree height": {
+      "diameter": {
+         "litter fall": false
+      }
+   }
+},
+ {
+   "Site Name": "Brackloon ICP Forests ",
+   "Site Operator": "Environmental Protection Agency",
+   "Site Contact": "XXXX",
+   "Year established": 2022,
+   "Site Status": "Operational",
+   "Site": {
+      "Plot": true
+   },
+   "Catchment": {
+      "System": false
+   },
+   "County": "Wicklow",
+   "Lat": 53.104537,
+   "Long": "-6.249724",
+   "Elevation (mAOD)": 100,
+   "Biome": "Woodland and forest",
+   "Mean Temp (�C)": 10.2,
+   "Mean Rainfall (mm)": 1300,
+   "URL": "https://nemn.ucd.ie/home/design/",
+   "Air temperature": true,
+   "Windspeed and wind direction": true,
+   "Air humidity": true,
+   "Barometric pressure": false,
+   "Precipitation": true,
+   "Incoming shortwave radiation": true,
+   "Soil characterization": true,
+   "Soil moisture": true,
+   "Surface water temperature": false,
+   "Surface water discharge": false,
+   "Surface water pH": false,
+   "Surface water specific conductivity": false,
+   "Groundwater temperature": false,
+   "Groundwater elevation": false,
+   "Groundwater specific conductivity": false,
+   "Surface water nutrients and ions": false,
+   "Soil water chemistry": true,
+   "Atmospheric deposition": true,
+   "Surface water dissolved organic carbon (DOC)": false,
+   "Soil heat flux": false,
+   "Radiation budget": false,
+   "Leaf area index (LAI)": false,
+   "Concentration of CO2 and water vapor": false,
+   "Abundance and identity of birds": false,
+   "Abundance and identity of insects": false,
+   "Abundance of vascular plants": false,
+   "Tree height": {
+      "diameter": {
+         "litter fall": true
+      }
+   }
+},
+ {
+   "Site Name": "Blackrock Turlough",
+   "Site Operator": "Geological Survey Ireland",
+   "Site Contact": "XXXX",
+   "Year established": 2007,
+   "Site Status": "Operational",
+   "Site": {
+      "Plot": true
+   },
+   "Catchment": {
+      "System": false
+   },
+   "County": "Galway",
+   "Lat": 53.1028,
+   "Long": "�-8.88591",
+   "Elevation (mAOD)": 5,
+   "Biome": "Freshwater",
+   "Mean Temp (�C)": 10.3,
+   "Mean Rainfall (mm)": 1100,
+   "URL": "https://gwlevel.ie/",
+   "Air temperature": true,
+   "Windspeed and wind direction": false,
+   "Air humidity": false,
+   "Barometric pressure": true,
+   "Precipitation": false,
+   "Incoming shortwave radiation": false,
+   "Soil characterization": false,
+   "Soil moisture": false,
+   "Surface water temperature": true,
+   "Surface water discharge": false,
+   "Surface water pH": false,
+   "Surface water specific conductivity": false,
+   "Groundwater temperature": true,
+   "Groundwater elevation": true,
+   "Groundwater specific conductivity": true,
+   "Surface water nutrients and ions": false,
+   "Soil water chemistry": false,
+   "Atmospheric deposition": false,
+   "Surface water dissolved organic carbon (DOC)": false,
+   "Soil heat flux": false,
+   "Radiation budget": false,
+   "Leaf area index (LAI)": false,
+   "Concentration of CO2 and water vapor": false,
+   "Abundance and identity of birds": false,
+   "Abundance and identity of insects": false,
+   "Abundance of vascular plants": false,
+   "Tree height": {
+      "diameter": {
+         "litter fall": false
+      }
+   }
+}
+]
