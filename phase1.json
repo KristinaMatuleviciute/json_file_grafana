@@ -33,6 +33,6 @@
    "MeanTempC": 10.5,
    "MeanRainfall": 1000,
    "Url": "https://www.npws.ie/nature-reserves/offaly/clara-bog-nature-reserve",
-   "AirTemperature": true,
-},
+   "AirTemperature": true
+}
 ]
