@@ -1,38 +1,12 @@
 [
  {
    "SiteName": "Burrishoole Catchment",
-   "SiteOperator": "Marine Institute",
-   "SiteContact": "XXXX",
-   "YearEstablished": 1999,
-   "SiteStatus": "Operational",
-   "Site": false,
-   "CatchmentSystem": true,
-   "County": "Mayo",
    "Latitude": 53.9021,
-   "Longitude": "-9.5723",
-   "Elevation": 12,
-   "Biome": "Coastal",
-   "MeanTempC": 10,
-   "MeanRainfall": 1100,
-   "Url": "http://burrishoole.marine.ie/about.aspx",
-   "AirTemperature": true
+   "Longitude": "-9.5723"
 },
  {
    "SiteName": "Clara Bog",
-   "SiteOperator": "Trinity College Dublin",
-   "SiteContact": "XXXX",
-   "YearEstablished": 2007,
-   "SiteStatus": "Operational",
-   "Site": true,
-   "CatchmentSystem":  false,
-   "County": "Offaly",
    "Latitude": 53.341923,
-   "Longitude": "-7.617452",
-   "Elevation (mAOD)": 65,
-   "Biome": "Raised Bog",
-   "MeanTempC": 10.5,
-   "MeanRainfall": 1000,
-   "Url": "https://www.npws.ie/nature-reserves/offaly/clara-bog-nature-reserve",
-   "AirTemperature": true
+   "Longitude": "-7.617452"
 }
 ]
