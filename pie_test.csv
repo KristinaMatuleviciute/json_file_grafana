@@ -1,5 +1,18 @@
-Category,Value,
-Apples,10,
-Oranges,15,
-Bananas,8,
-Grapes,12,
+[
+  {
+    "Category": "Apples",
+    "Value": 10
+  },
+  {
+    "Category": "Oranges",
+    "Value": 15
+  },
+  {
+    "Category": "Bananas",
+    "Value": 8
+  },
+  {
+    "Category": "Grapes",
+    "Value": 12
+  }
+]
